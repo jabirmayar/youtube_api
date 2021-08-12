@@ -19,7 +19,7 @@ flutter:
   plugin:
     platforms:
       android:
-        package: io.github.nitishk72.youtubeapi
+        package: io.github.nitishk72.youtubeapi.youtubeapi
         pluginClass: YoutubeApiPlugin
       ios:
         pluginClass: YoutubeApiPlugin
